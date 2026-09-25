@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+hospital.db
+
+.venv/
+venv/
+env/
+
+.vscode/
+.idea/
+
+*.log
